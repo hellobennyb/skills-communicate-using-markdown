@@ -1,3 +1,5 @@
+# Header Example
+
 # H1
 ## H2
 ### H3
@@ -5,9 +7,10 @@
 ##### H5
 ###### H6
 
+### Image Example
 ![Image of Boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
 
-###### Hello.
+### Hello.
 ```
 ##include stndio.h
 int main(void)
@@ -18,3 +21,6 @@ int main(void)
     printf("Hello, %s/n." name);
 }
 ```
+### List Example
+- [x] Continue GitHub lesson
+- [ ] Finish lesson
